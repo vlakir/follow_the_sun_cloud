@@ -12,7 +12,7 @@ ____
 Результат выдает в терминал в виде json в формате:
 ```JSON
     {
-        "sat_status_vectors_km": [
+        "sat_status_vectors": [
             {
                 "x": значение,
                 "y": значение,
@@ -25,7 +25,7 @@ ____
             },
             ...
         ],
-        "sun_status_vectors_km": [
+        "sun_status_vectors": [
         {
                 "x": значение,
                 "y": значение,
@@ -38,7 +38,7 @@ ____
             },
             ...
         ],
-        "sun_status_vectors_ors_km": [
+        "sun_status_vectors_ors": [
         {
                 "x": значение,
                 "y": значение,
