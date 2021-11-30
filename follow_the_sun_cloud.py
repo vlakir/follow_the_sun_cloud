@@ -7,7 +7,7 @@ warnings.filterwarnings("ignore")
 url = 'https://kmm.simct.ru:7443/api/v1/follow_the_sun.json'
 
 params = {
-                            "token": "84980637-164d-4571-a3a2-c0e1216547ac",
+                            "token": "891afd98-764d-423b-b62a-df351c5ef2a3",
                             "status_vector_sat_ascending_node": {
                                 "x": 4951.209053138 * 1000,
                                 "y": -4653.856628012 * 1000,
